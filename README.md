@@ -1,5 +1,5 @@
-dockerfile-go-build-env
-=======================
+dockerfile-golang-build-env
+===========================
 
 Golang image with following tools.
 
